@@ -61,8 +61,5 @@
   "dependencies": {
     "co": "^4.0.0",
     "is-generator": "^1.0.1"
-  },
-  "peerDependencies": {
-    "mocha": "git://github.com/Zhigalov/mocha.git#92ec0603d89e4cc2d5250bf4a8ed4fc0d7c9b18e"
   }
 }
